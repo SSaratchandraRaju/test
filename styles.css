@@ -10,17 +10,10 @@ body {
 
 .card {
     background: white;
-    width: 250px;
-    height: 300pxx;
     padding: 1.5rem;
     border-radius: 12px;
     text-align: center;
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
-}
-
-.card-container {
-    display: flex;
-    gap: 2rem;
 }
 
 .avatar {
